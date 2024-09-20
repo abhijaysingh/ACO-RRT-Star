@@ -29,4 +29,7 @@ pip3 install -r requirements.txt
     cd <path_to_project>/code/
     python3 RRT*.py
     ```
+
+## Help
+For more help, raise an issue and I will get back to you.
     
